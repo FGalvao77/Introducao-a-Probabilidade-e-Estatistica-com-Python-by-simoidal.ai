@@ -1,1 +1,2 @@
-# Introducao-a-Probabilidade-e-Estatistica-com-Python-by-simoidal.ai
+# **Introdução à Probabilidade e Estatística com Python**
+ - Por sigmoidal.ai
